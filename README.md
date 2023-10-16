@@ -1,5 +1,5 @@
 
-[![Screenshot (435)](https://github.com/SatyaDevi-Amujala/Hangman-Game/assets/133928428/79f4a35c-07f7-4dc1-863a-9982e1baf0a2)
+[![Screenshot (435)](https://github-production-user-asset-6210df.s3.amazonaws.com/133928428/275387699-79f4a35c-07f7-4dc1-863a-9982e1baf0a2.png)
 ](https://clipchamp.com/watch/NnGZdxUq7Kl)
 
 # Getting Started with Create React App
